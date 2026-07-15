@@ -1,0 +1,6 @@
+{
+  "name": "Penganalisis Pasangan Angka",
+  "description": "Alat analisis statistik interaktif untuk mencari pola, pasangan angka terpopuler, dan kombinasi angka keberuntungan berdasarkan data angka masukan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
